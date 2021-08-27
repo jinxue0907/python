@@ -6,6 +6,7 @@ def 민주():
 
 date = '2021.8.27'
 
-지원이()
-민주()
-print(date)
+if __name__ == '__main__':
+    지원이()
+    민주()
+    print(date)

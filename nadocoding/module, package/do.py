@@ -1,2 +1,3 @@
-import my_module
-my_module.지원이()
+import my_module as mm
+mm.지원이()
+print(mm.date)
