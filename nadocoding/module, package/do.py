@@ -23,4 +23,8 @@ travel.ilsan.이지()
 from travel.ilsan import 이지
 이지()
 
+from travel import *
+ilsan.이지()
+gp = gangreung.GangreungPackage()
+print(gp)
 
